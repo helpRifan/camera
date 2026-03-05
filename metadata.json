@@ -1,0 +1,7 @@
+{
+  "name": "Smart Attendance Assistant",
+  "description": "Analyzes live camera feed or uploaded images to identify individuals and log attendance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
